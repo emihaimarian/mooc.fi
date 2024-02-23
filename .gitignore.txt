@@ -1,0 +1,9 @@
+**/target/**
+/target/
+**/.settings/**
+**/.classpath
+**/.factorypath
+**/launch
+**/project
+*.idea
+/logs/
